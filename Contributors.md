@@ -161,6 +161,7 @@
 - [Diego Chaves] (https://github.com/chavesdiego)
 - [Mihai Druta] (https://github.com/MihaiDruta)
 - [Siddeshwar Navaneetharan](https://github.com/Infinity-Intellect)
+- [Martin Fevre] (https://github.com/fevrem)
 - [Raymond Beaudoin] (https://github.com/synackray)
 - [Dony Purnama] (https://github.com/donypurnama)
 - [Saksham Singh] (https://github.com/Saksham27)
